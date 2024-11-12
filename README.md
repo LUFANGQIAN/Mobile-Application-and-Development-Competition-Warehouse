@@ -1,1 +1,3 @@
-# Mobile-Application-and-Development-Competition-Warehouse
+# 移动应用与开发竞赛
+
+本仓库为移动应用开发竞赛项目，如有问题，请联系 Mr.wang.vn@gmail.com
